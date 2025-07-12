@@ -3,7 +3,8 @@ A simple and elegant ToDo List web app built with HTML, CSS, and JavaScript. Thi
 
 ## 🚀 Live Demo
 👉 Click here to view the live project
-(Replace this link with the actual one once deployed)
+https://sreoshh.github.io/ToDo-List/
+
 
 ## 🛠 Built With
 HTML5
